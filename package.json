@@ -1,4 +1,5 @@
 {
+  "author": "Vajira W",
   "name": "fcc-node",
   "version": "1.0.0",
   "description": "freecodecamp node certfication assignment ",
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/vajiraw/fcc.git"
   },
-  "author": "Vajira W",
+  
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vajiraw/fcc/issues"
