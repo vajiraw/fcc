@@ -1,0 +1,19 @@
+{
+  "name": "fcc-node",
+  "version": "1.0.0",
+  "description": "freecodecamp node certfication assignment ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vajiraw/fcc.git"
+  },
+  "author": "Vajira W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vajiraw/fcc/issues"
+  },
+  "homepage": "https://github.com/vajiraw/fcc#readme"
+}
